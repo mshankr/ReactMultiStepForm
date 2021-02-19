@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactMultiStepForm/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/ReactMultiStepForm/static/js/main.3ced8617.chunk.js",
+    "main.js.map": "/ReactMultiStepForm/static/js/main.3ced8617.chunk.js.map",
+    "runtime-main.js": "/ReactMultiStepForm/static/js/runtime-main.b435f608.js",
+    "runtime-main.js.map": "/ReactMultiStepForm/static/js/runtime-main.b435f608.js.map",
+    "static/js/2.2879f47d.chunk.js": "/ReactMultiStepForm/static/js/2.2879f47d.chunk.js",
+    "static/js/2.2879f47d.chunk.js.map": "/ReactMultiStepForm/static/js/2.2879f47d.chunk.js.map",
+    "index.html": "/ReactMultiStepForm/index.html",
+    "static/css/main.4a4137e4.chunk.css.map": "/ReactMultiStepForm/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.2879f47d.chunk.js.LICENSE.txt": "/ReactMultiStepForm/static/js/2.2879f47d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b435f608.js",
+    "static/js/2.2879f47d.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.3ced8617.chunk.js"
+  ]
+}
